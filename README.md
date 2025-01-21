@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # My Static Webpage
 
@@ -29,3 +30,6 @@ This is a simple static webpage built using **HTML**, **CSS**, and **JavaScript*
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
+=======
+# Candidate-Page
+>>>>>>> b3e0afd3e167baa010b24aa6ff45bd3ee2bd1f86
